@@ -1,0 +1,10 @@
+.azure
+.next
+coverage
+next.config.js
+node_modules
+**/node_modules
+.env
+next-env.d.ts
+package.json
+*.json

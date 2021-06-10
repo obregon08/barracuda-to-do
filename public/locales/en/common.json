@@ -1,0 +1,16 @@
+{
+  "support": "Tech Support",
+  "required": "Required",
+  "yes": "Yes",
+  "no": "No",
+  "save": "Save",
+  "cancel": "Cancel",
+  "dueDate": "Due Date",
+  "done": "Done",
+  "showingTasks": "Showing tasks for",
+  "createTask": "Create Task",
+  "title": "Title",
+  "areYouSure": "Are you sure?",
+  "noTasks": "There are not tasks for the selected day"
+}
+

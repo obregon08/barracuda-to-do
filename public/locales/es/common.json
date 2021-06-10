@@ -1,0 +1,15 @@
+{
+  "support": "Servicio Tecnico",
+  "required": "Requerido",
+  "yes": "Si",
+  "no": "No",
+  "save": "Guardar",
+  "cancel": "Cancelar",
+  "dueDate": "Fecha De Caducidad",
+  "done": "Terminado",
+  "showingTasks": "Mostrando tareas para el dia",
+  "createTask": "Crear Tarea",
+  "title": "Titulo",
+  "areYouSure": "Esta seguro?",
+  "noTasks": "No hay tareas para el dia seleccionado"
+}

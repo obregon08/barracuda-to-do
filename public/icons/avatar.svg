@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A7C19AE6-8A22-4136-96F8-E5E937DE0442</title>
+    <defs>
+        <polygon id="path-1" points="0 0 125 0 125 125 0 125"></polygon>
+    </defs>
+    <g id="Sign-Up/Sign-In-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="D-UX" transform="translate(-918.000000, -341.000000)">
+            <g id="avatar" transform="translate(918.000000, 341.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M59.9991639,78 L65.528844,78 C77.1717717,78 93,87.3332241 93,98.740498 L93,103 L27,103 L27,98.740498 C27,87.3332241 42.8265562,78 54.4694839,78 L59.9991639,78 Z M59.9991666,35 C70.4922139,35 79,43.5061192 79,53.9991666 C79,64.4922139 70.4922139,73 59.9991666,73 C49.5061192,73 41,64.4922139 41,53.9991666 C41,43.5061192 49.5061192,35 59.9991666,35 L59.9991666,35 Z M59.5,16 C89.5998142,16 114,40.4001858 114,70.5 C114,100.599814 89.5998142,125 59.5,125 C29.4001858,125 5,100.599814 5,70.5 C5,40.4001858 29.4001858,16 59.5,16 L59.5,16 Z" id="Fill-1" fill="#8A94F4" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

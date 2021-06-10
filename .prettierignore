@@ -1,0 +1,9 @@
+.azure
+.next
+node_modules
+**/node_modules
+coverage
+bundles
+.env
+next-env.d.ts
+public
